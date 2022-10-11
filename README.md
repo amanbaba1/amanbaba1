@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanbaba1
+- 👋 Hi, I’m @Shaik Aman baba
 - 👀 I’m interested in ... web development and aiming to be a full stack developer.
 - 🌱 I’m currently learning ... js.
 - 💞️ I’m looking to collaborate on ...
